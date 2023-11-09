@@ -1,0 +1,12 @@
+@charset "UTF-8";
+.Contenedor{
+	background-color: grey;
+	width: 80%;
+    max-width: 950px;
+    
+    border: 1px solid red;
+}
+
+list{
+	list-style-type: none;
+}
